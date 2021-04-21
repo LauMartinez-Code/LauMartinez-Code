@@ -2,9 +2,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lautaro-martinez/)](https://www.linkedin.com/in/lautaro-martinez-4517b2175/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laumartinez.exe@gmail.com)](mailto:laumartinez.exe@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/LauMartinez-Code?label=follow&style=social)](https://github.com/LauMartinez-Code)
+[![GitHub](https://img.shields.io/github/followers/LauMartinez-Code?label=GitHub%20Gist&style=social)](https://gist.github.com/LauMartinez-Code)
 
-I'm Lautaro, Back-end Developer and technology enthusiast from Argentina. I am starting my career as a developer in a professional way since this year, but I have knowledge and experiences in projects for 2 years.
+
+I'm Lautaro, Front-end Developer and technology enthusiast from Argentina. I am starting my career as a developer in a professional way since 2020, but I have knowledge and experiences in projects for 2 years.
 
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better.   
 
