@@ -5,14 +5,15 @@
 [![My GitHub Gist](https://img.shields.io/github/followers/LauMartinez-Code?label=GitHub%20Gist&style=social)](https://gist.github.com/LauMartinez-Code)
 
 
-I'm Lautaro, Front-end Developer and technology enthusiast from Argentina. I am starting my career as a developer in a professional way since 2020, but I have knowledge and experiences in projects for 2 years.
+I'm Lautaro, Front-end Developer and technology enthusiast from Argentina. I started my career as a developer in a professional way amid the Covid-19 pandemic in 2020. Today, I’m responsible for creating and implementing web designs and user interfaces, developing cross-browser and cross-platform compatible solutions, collaborating with team members to establish objectives and design more functional and responsive websites.
+I'm always excited for new challenges, bringing my development experience and knowledge, as well as strong problem-solving skills and attention to detail.
 
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better.   
 
 
 ### :sparkles:  Seeking knowledge all the time
 
-- 🌱 I’m currently learning Web technologies to  to become a Full Stack Developer 🤓
+- 🌱 I’m currently learning Web technologies to become a Full Stack Developer 🤓
 - 💬 Ask me anything <a href="https://github.com/LauMartinez-Code/LauMartinez-Code/issues/new"><b>here</b></a> or <a href="mailto:laumartinez.exe@gmail.com"><b>email me</b></a>
 
 
