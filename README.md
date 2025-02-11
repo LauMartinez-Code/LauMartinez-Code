@@ -17,7 +17,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 - 🌱 I’m currently learning Web technologies to become a Full Stack Developer 🤓
 - 💬 Ask me anything <a href="https://github.com/LauMartinez-Code/LauMartinez-Code/issues/new"><b>here</b></a> or <a href="mailto:laumartinez.exe@gmail.com"><b>email me</b></a>
 
-
+<!--
 <details>
   <summary>My Github Stats</summary>
   <br>
@@ -26,7 +26,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=LauMartinez-Code&show_icons=true&theme=dracula" alt="Lautaro Martinez Github Stats" alt="LauMartinez-Code Github Status" />
   </p>
 </details>
-
+-->
 
 <!--
 - :computer: Techs: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
