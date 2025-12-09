@@ -1,6 +1,6 @@
 # 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lautaro-martinez/)](https://www.linkedin.com/in/lautaro-martinez-4517b2175/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lautaro-martinez/)](https://www.linkedin.com/in/lautaro-martinez-dev/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laumartinez.exe@gmail.com)](mailto:laumartinez.exe@gmail.com)
 [![My GitHub Gist](https://img.shields.io/github/followers/LauMartinez-Code?label=GitHub%20Gist&style=social)](https://gist.github.com/LauMartinez-Code)
 
@@ -12,7 +12,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 ### :sparkles:  Seeking knowledge all the time
 
-- 🌱 I’m currently learning Web technologies to become a Full Stack Developer 🤓
+- 🌱 I’m currently learning Web technologies such as JavaScript, TypeScript and React
 - 💬 Ask me anything <a href="https://github.com/LauMartinez-Code/LauMartinez-Code/issues/new"><b>here</b></a> or <a href="mailto:laumartinez.exe@gmail.com"><b>email me</b></a>
 
 <!--
